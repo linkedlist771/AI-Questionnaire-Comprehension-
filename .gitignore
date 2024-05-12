@@ -14,3 +14,10 @@ Cargo.lock
 *.pdb
 
 vendor/
+
+# env
+.env
+
+
+# config
+config.json
